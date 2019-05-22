@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
+        public string Name { set; get; }
     }
 }
